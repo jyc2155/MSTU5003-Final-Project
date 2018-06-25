@@ -1,7 +1,7 @@
 # MSTU5003-Final-Project
-## By- Janet Choe
+### By Janet Choe
 
-Final Project for summer 2018 MSTU 5003
+Final Project for Summer 2018 MSTU 5003
 
 CodePen: https://codepen.io/jyc2155/pen/LreGrV
 
